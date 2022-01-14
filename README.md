@@ -1,2 +1,8 @@
-# FBLA_game
-Game for 2021 regionals FBLA Computer game and simulation
+Welcome to Blob town
+This is a game for FBLA computer game and simulation 2021.
+To play this game use the arrow keys and the space bar
+In each level you are trying to get to the door while advoiding blobs and lava and collecting coins.
+The more coins you collect the better.
+If you die you will lose all of your coins but restart at the level so you can not go back and get coins lost when you died except for ones collected at that level.
+Hope you enjoy
+And good luck escaping Blob town.
