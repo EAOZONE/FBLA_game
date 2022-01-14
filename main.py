@@ -408,7 +408,7 @@ world = World(world_data)
 
 
 #create buttons
-restart_button = Button(screen_width // 2 - 50, screen_height // 2 + 100, restart_img)
+restart_button = Button(screen_width // 2 - 50, screen_height // 2 + 140, restart_img)
 start_button = Button(screen_width // 2 - 350, screen_height-120, start_img)
 exit_button = Button(screen_width // 2 + 150, screen_height-120, exit_img)
 
@@ -472,7 +472,7 @@ while run:
 				game_over = 0
 			else:
 				draw_text('YOU WIN!', font, blue, (screen_width // 2) - 140, screen_height // 2)
-				draw_text('You Scored ' + str(score) + "coins", font, blue, (screen_width // 2) - 100, (screen_height // 2) + 80)
+				draw_text('You Scored ' + str(score) + "coins", font, blue, (screen_width // 2) - 140, (screen_height // 2) + 100)
 				if restart_button.draw():
 					level = 0
 					#reset level
