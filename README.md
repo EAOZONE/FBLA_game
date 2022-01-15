@@ -8,7 +8,7 @@ The game can only be run correctly if you have a monitor that is bigger than 100
 To run the game click the main.py executuble file and the game should run from there.
 Hope you enjoy.
 And good luck escaping Blob town.
-To make new levels or edit existing levels use the level_editor.exe file.
+To edit existing levels use the level_editor.exe file.
 Use the arrow keys to select the level you want to change and click the load button.
-click on the block you want to change and a dirt block will show keep clicking until the item or block you want to be there shows up.
-After creating the entire level click the save button and your level will now be added to the game.
+Click on the block you want to change and a dirt block will show keep clicking until the item or block you want to be there shows up.
+After editing as much as you want to click the save button and your level will now be added to the game.
